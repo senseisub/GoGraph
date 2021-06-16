@@ -6,6 +6,6 @@
 </p>
 
 <p>
-    To initialize a new Graph:
+    To initialize a new Graph: <br>
         graph := Graph{}
 </p>
